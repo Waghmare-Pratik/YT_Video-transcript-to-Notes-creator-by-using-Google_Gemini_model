@@ -1,1 +1,1 @@
-# YT_Video-transcript-to-Notes-creator-by-using-Google_Gemini_model
+# YouTube-Transcript-to-Detailed-Notes-Converter_GoogleGemini
